@@ -12,8 +12,8 @@ dim="\e[2m"
 undim="\e[0m"
 
 # disks to check
-disks=(sda sdb sdc sdd sde sdf sdg sdi)
-disknames=(sda sdb sdc sdd sde sdf sdg sdi)
+disks=(sda sdb sdc sdd)
+disknames=(sda sdb sdc sdd)
 
 # hddtemp
 hddtemp_host=localhost
